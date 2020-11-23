@@ -14,7 +14,7 @@
 } */
 
 .container {
-  background-image: url(images/restaurant.jpeg);
+  background-image: url(/images/restaurant.jpeg);
   background-color: #E6E6E6;
   /* background-color: #cccccc; */
   max-height: 100vh;
