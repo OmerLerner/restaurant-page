@@ -14,7 +14,7 @@
 } */
 
 .container {
-  background-image: url(../dist/images/restaurant.jpeg);
+  background-image: url(images/restaurant.jpeg);
   background-color: #E6E6E6;
   /* background-color: #cccccc; */
   max-height: 100vh;
@@ -123,7 +123,7 @@ section:target h3{
 }
 /*Food Menu */
 #second {
-  background-image: url(../dist/images/restaurantTinted.jpg);
+  background-image: url(images/restaurantTinted.jpg);
   background-size: cover;
   min-height: 0;
   background-repeat: no-repeat;
@@ -191,7 +191,7 @@ section:target h3{
 
 /*About Us*/
 #third {
-  background-image: url(../dist/images/restaurantTinted.jpg);
+  background-image: url(images/restaurantTinted.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
